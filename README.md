@@ -1,4 +1,4 @@
-# Hi, I'm Arbaaz 👋😎‍👩🏾‍💻
+# Hi, I'm Arbaaz 👋😎‍🦱💻
 
 
 - 🌱 I’m currently learning to be Full-Stack Developer
@@ -9,7 +9,7 @@
 📷 [instagram][instagram] **|** 
 👔 [linkedin][Linkedin]
 
--[website]: https://arbaazsama.github.io/profile/
+[website]: https://arbaazsama.github.io/profile/
 [twitter]: https://twitter.com/justarbaaz
 [instagram]: https://instagram.com/iarbaazsiddiqui
 [linkedin]: https://linkedin.com/in/arbaazsiddiqui
