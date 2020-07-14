@@ -1,4 +1,4 @@
-# Hi, I'm Arbaaz 🏾👋😎‍💻 👋
+# Hi, I'm Arbaaz 👋😎‍💻 👋
 
 
 - 🌱 I’m currently learning to be Full-Stack Developer
