@@ -6,8 +6,8 @@
 - 🤔 I’m looking for help new fellow developers
 - 📫 How to reach me: 
 🏡 [Website][website] **|** 
-🐦 [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">][twitter] **|** 
-📷 [Instagram][instagram] **|** 
+🐦 [Twitter][twitter] **|** 
+[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">][instagram] **|** 
 👔 [Linkedin][Linkedin]
 
 [Website]: https://arbaazsama.github.io/profile/
