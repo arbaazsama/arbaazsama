@@ -19,4 +19,6 @@
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" />
 <img src="https://img.shields.io/badge/React.js -1cc4b4" />
 </br>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://linkedin.com/in/arbaazsiddiqui"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
