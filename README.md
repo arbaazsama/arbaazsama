@@ -14,4 +14,14 @@
 [twitter]: https://twitter.com/justarbaaz
 [instagram]: https://instagram.com/iarbaazsiddiqui
 [linkedin]: https://linkedin.com/in/arbaazsiddiqui
+## Skills
+<img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" />
+<img src="https://img.shields.io/badge/Python -41b883" />
+<img src="https://img.shields.io/badge/CSS5 -FF0000" />  
+<img src="https://img.shields.io/badge/React.js -1cc4b4" />
+<img src="https://img.shields.io/badge/Java -FF0000" />  
+<img src="https://img.shields.io/badge/Illustrator -ff7b19" />
+<img src="https://img.shields.io/badge/Photoshop -30a8fe" />
+
+</br>
 
