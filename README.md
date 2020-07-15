@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help new fellow developers
 - 📫 How to reach me: 
 🏡 [Website][website] **|** 
-[<img src="http://i.imgur.com/tXSoThF.png">][twitter] **|** 
+[<img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white">][twitter] **|** 
 [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">][instagram] **|** 
 [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">][Linkedin]
 
@@ -19,5 +19,6 @@
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" />
 <img src="https://img.shields.io/badge/React.js -1cc4b4" />
 </br>
+<a class="github-button" href="https://github.com/arbaazsama/arbaazsama/archive/master.zip" data-icon="octicon-download" aria-label="Download arbaazsama/arbaazsama on GitHub">Download</a>
 
-https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white
+
