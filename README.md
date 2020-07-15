@@ -19,6 +19,6 @@
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" />
 <img src="https://img.shields.io/badge/React.js -1cc4b4" />
 </br>
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/arbaazsama/arbaazsama/archive/master.zip" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-icon="octicon-download"></a>
 
+
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5f0f34796216ed0012440652&product=inline-follow-buttons" async="async"></script>
