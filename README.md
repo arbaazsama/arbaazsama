@@ -8,7 +8,7 @@
 🏡 [Website][website] **|** 
 🐦 [Twitter][twitter] **|** 
 [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">][instagram] **|** 
-👔 [Linkedin][Linkedin]
+[img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"][Linkedin]
 
 [Website]: https://arbaazsama.github.io/profile/
 [Twitter]: https://twitter.com/justarbaaz
