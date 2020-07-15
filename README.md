@@ -20,5 +20,6 @@
 <img src="https://img.shields.io/badge/React.js -1cc4b4" />
 </br>
 
-
+<head>
 <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5f0f34796216ed0012440652&product=inline-follow-buttons" async="async"></script>
+</head
