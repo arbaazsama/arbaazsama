@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning to be Full-Stack Developer
 - 🤔 I’m looking for help new fellow developers
-- 📫 How to reach me: 
-🏡 [Website][website] **|** 
+- 📫 How to reach me: <br>
+[<img src="https://imgur.com/a/Zaa3ck1">][website] **|** 
 [<img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white">][twitter] **|** 
 [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">][instagram] **|** 
 [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">][Linkedin]
@@ -20,6 +20,4 @@
 <img src="https://img.shields.io/badge/React.js -1cc4b4" />
 </br>
 
-<head>
-<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5f0f34796216ed0012440652&product=inline-follow-buttons" async="async"></script>
-</head
+
