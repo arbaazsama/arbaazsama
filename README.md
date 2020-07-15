@@ -19,6 +19,6 @@
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" />
 <img src="https://img.shields.io/badge/React.js -1cc4b4" />
 </br>
-<a class="github-button" href="https://github.com/arbaazsama/arbaazsama/archive/master.zip" data-icon="octicon-download" aria-label="Download arbaazsama/arbaazsama on GitHub">Download</a>
-
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/arbaazsama/arbaazsama/archive/master.zip" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-icon="octicon-download"></a>
 
