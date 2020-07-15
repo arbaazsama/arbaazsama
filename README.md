@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning to be Full-Stack Developer
 - 🤔 I’m looking for help new fellow developers
-- 📫 How to reach me: <br>
+- 📫 How to reach me: <br><br>
 [<img src="https://img.shields.io/badge/🔽Download_My_CV-002366">][website] **|** 
 [<img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white">][twitter] **|** 
 [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">][instagram] **|** 
