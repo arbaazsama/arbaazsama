@@ -5,9 +5,9 @@
 - 🌱 I’m currently learning to be Full-Stack Developer
 - 🤔 I’m looking forward to help new fellow developers.
 - 📫 How to reach me: <br><br>
-[<img src="https://img.shields.io/badge/🌐Website-002366">][website] **|** 
-[<img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white">][twitter] **|** 
-[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">][instagram] **|** 
+[<img src="https://img.shields.io/badge/🌐Website-002366">][website]
+[<img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white">][twitter] 
+[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">][instagram] 
 [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">][Linkedin]
 
 [Website]: https://arbaazsama.github.io/profile/
