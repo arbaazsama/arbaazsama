@@ -15,8 +15,8 @@
 [instagram]: https://instagram.com/iarbaazsiddiqui
 [linkedin]: https://linkedin.com/in/arbaazsiddiqui
 ## Skills
-<img src="https://img.shields.io/badge/JavaScript -3d03fc" /> <img src="https://img.shields.io/badge/Python -41b883" /> <img src="https://img.shields.io/badge/Java -FF0000" /><br>
+<img src="https://img.shields.io/badge/JavaScript -3d03fc" /> <img src="https://img.shields.io/badge/Python -41b883" /> <img src="https://img.shields.io/badge/Java -FF0000" /> <img src="https://img.shields.io/badge/C/C++ -C357C4" /><br>
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" />
 <img src="https://img.shields.io/badge/React.js -1cc4b4" />
 </br>
-
+C357C4
