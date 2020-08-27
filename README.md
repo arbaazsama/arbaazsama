@@ -19,4 +19,28 @@
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" />
 <img src="https://img.shields.io/badge/React.js -1cc4b4" />
 </br>
-
+ <!--
+ <p>
+<img height="50" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png">
+<img height="50" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png">
+<img height="50" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png">
+<img height="50" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png">
+<img height="50" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png">
+<img height="30" src="https://cdn.worldvectorlogo.com/logos/php-1.svg">
+</p>
+<p>
+<img height="50" src="https://cdn.worldvectorlogo.com/logos/html5.svg">
+<img height="50" src="https://cdn.worldvectorlogo.com/logos/css3.svg">
+<img height="50" src="https://cdn.worldvectorlogo.com/logos/javascript-4.svg">
+<img height="50" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg">
+<img height="50" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg">
+<img height="50" src="https://cdn.worldvectorlogo.com/logos/react.svg">
+<img height="50" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg">
+<img height="50" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+<img height="30" src="https://cdn.worldvectorlogo.com/logos/express-109.svg">
+<img height="50" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
+<img height="50" src="https://cdn.worldvectorlogo.com/logos/github-icon.svg">
+<img height="30" src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg">
+<img height="70" src="https://cdn.worldvectorlogo.com/logos/mysql.svg">
+  
+</p> -->
