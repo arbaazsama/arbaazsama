@@ -10,7 +10,7 @@
 [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">][instagram] 
 [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">][Linkedin]
 
-[Website]: https://arbaazsama.github.io/profile/
+[Website]: https://arbaazsama.github.io
 [Twitter]: https://twitter.com/justarbaaz
 [Instagram]: https://instagram.com/iarbaazsiddiqui
 [Linkedin]: https://linkedin.com/in/arbaazsiddiqui
